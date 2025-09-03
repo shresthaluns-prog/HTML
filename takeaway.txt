@@ -1,0 +1,9 @@
+block element
+ always starts from new line
+ consumes whole horizontal space
+p, h, div
+
+inline element
+ starts from available space
+ constant space as much as it requires
+span, a 
